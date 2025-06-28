@@ -91,6 +91,46 @@
     npm start
 
 
+---
+# Project Overview
+
+### Landing page
+![image](https://github.com/user-attachments/assets/3f01d434-3e1c-4910-85cc-75c4b767b16f)
+
+### Login Page
+![image](https://github.com/user-attachments/assets/02cb3d1b-1ee0-431e-be58-fa89dbb03ef1)
+
+### Items Page
+![image](https://github.com/user-attachments/assets/f394f830-0cbb-406f-a71d-0af189927dd4)
+
+### My Cart Page
+![image](https://github.com/user-attachments/assets/51faad7b-b350-41f1-adcf-98c5d9cb9d55)
+
+### My Orders Page
+![image](https://github.com/user-attachments/assets/8de1c5d2-d3f0-4441-9a1b-eda5c98091bb)
+
+### My History Page
+![image](https://github.com/user-attachments/assets/3a03d2d6-ddc8-4364-ab8f-b6eef0200405)
+
+### Place Order Page
+![image](https://github.com/user-attachments/assets/c2676aff-90b5-40fe-ac7d-67177b8304a4)
+
+### Admin Dashboard Page
+![image](https://github.com/user-attachments/assets/ea61b95f-9b4a-4e49-91bb-bdfb268e022d)
+
+### Users Page
+![image](https://github.com/user-attachments/assets/fce3ff12-ad4f-417d-a039-ee0302d3e772)
+
+### Add Category page
+![image](https://github.com/user-attachments/assets/81fdf4ce-71d5-4be5-aa8f-9772054d0ddd)
+
+### Add Product page
+![image](https://github.com/user-attachments/assets/d99f78e7-40d6-446c-b2f2-2b1547d6c2cd)
+
+### Admin Orders Page
+![image](https://github.com/user-attachments/assets/963b7018-81b9-43e4-a9aa-a478f04d6f2a)
+
+---
 
 🙋‍♀️Author--> Jahnavi Durga Ganapathi, Feel free to connect or contribute!
 
