@@ -1,7 +1,7 @@
 # Shopsmart Grocery-web-app-using-mern-stack
 
-**ShopSmart** is a full-featured online grocery shopping web app built using the MERN stack (MongoDB, Express.js, React, Node.js). It enables users to browse and purchase groceries, while giving admins full control over product, order, and user management. Succesfully build and deployed in netlify .
-👉 [Click here to visit the website](https://nextstopgroceries.netlify.app/)
+**ShopSmart** is a full-featured online grocery shopping web app built using the MERN stack (MongoDB, Express.js, React, Node.js). It enables users to browse and purchase groceries, while giving admins full control over product, order, and user management. Succesfully build and deployed using render and netlify .
+**👉 Click here to visit the website : https://nextstopgroceries.netlify.app/**
 
 ---
 
