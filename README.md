@@ -19,12 +19,13 @@
 - Add to cart, view cart
 - Place orders
 - Select payment method: Cash on Delivery, UPI, or Net Banking
-- View previous orders
+- View previous orders(History)
 
 ### 🔐 Admin Features
 - Admin login with protected dashboard
 - Add, update, and delete products
 - View all users
+- View all orders
 - Manage all orders and payments
 
 ---
@@ -84,7 +85,7 @@
     cd server
     npm run dev
 
-    
+### 5. **Run the React App **  
     -Start frontend
     cd ../client
     npm start
